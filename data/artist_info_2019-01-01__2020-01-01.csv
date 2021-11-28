@@ -1,0 +1,489 @@
+artist,genres,popularity,followers,artist_id
+Ariana Grande,"['dance pop', 'pop']",93,72091927,66CXWjxzNUsdJxJ2JdwvnR
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",91,34933440,246dkjvS1zLTtiykXe5h60
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",82,7611219,540vIaP2JwjQb9dm3aArA4
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",96,39969523,4q3ewBCX7sLwd24euuV69X
+Travis Scott,"['rap', 'slap house']",92,18998139,0Y5tJX1MQlPlqiwlOH1tJY
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",86,16465777,26VFTg2z8YR0cCuwLzESi2
+Ava Max,"['dance pop', 'pop']",83,4496821,4npEfmQ6YuiwW1GpUmaq3F
+Pedro Capó,"['latin', 'latin pop', 'puerto rican pop']",73,1401971,4QVBYiagIaa6ZGSPMbybpy
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",86,32564924,64KEffDW9EtZ1y2vBYgq8T
+Paulo Londra,"['argentine hip hop', 'trap argentino', 'trap latino']",79,14093740,3vQ0GE3mI0dAaxIMYe5g7z
+Kodak Black,"['florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'southern hip hop', 'trap']",81,7494075,46SHBwWsqBkxI7EeeBEQG7
+Meek Mill,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",81,5595956,20sxb77xiYeusSH8cVdatc
+Sheck Wes,"['rap', 'trap', 'underground hip hop', 'vapor trap']",66,1194326,2RDOrhPqAM4jzTRCEb19qX
+Panic! At The Disco,['modern rock'],80,11025369,20JZFwl6HVl6yg8a4H3ZqK
+benny blanco,"['electropop', 'pop', 'pop rap']",76,844144,5CiGnKThu5ctn9pBxv7DGa
+Maroon 5,"['pop', 'pop rock']",88,33958635,04gDigrS5kc9YWfZHwBETP
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",91,8775033,5f7VJjfbwm532GiveGC0ZK
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",85,18514175,4kYSro6naA4h99UJvo89HB
+Juice WRLD,"['chicago rap', 'melodic rap']",93,20736023,4MCBfE4596Uoi2O4DtmEMz
+Queen,"['classic rock', 'glam rock', 'rock']",87,38026643,1dfeR4HaWDbWqFHLkxsg1d
+Lady Gaga,"['art pop', 'dance pop', 'pop']",86,19965305,1HY2Jd0NmPuamShAr6KMms
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",97,58890362,3TVXtAsR1Inumwj472S9r4
+XXXTENTACION,"['emo rap', 'miami hip hop']",90,32421716,15UsOTVnJzReFVN1VCnxy4
+Dynoro,"['edm', 'electro house', 'pop dance', 'tropical house']",71,232971,3v6Ji4uoWtKRkhuDUaxi9n
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",89,19501028,2R21vXR83lH98kGeO99Y66
+Khalid,"['pop', 'pop r&b']",88,14573028,6LuN9FCkKOj5PcnpouEgny
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop rap', 'progressive house', 'uk dance']",85,22301478,7CajNmpbOovFoOoasH2HaY
+Billie Eilish,"['art pop', 'electropop', 'pop']",92,52716939,6qqNVTkY8uBg9cP3Jd7DAH
+Mark Ronson,"['dance pop', 'pop']",77,936309,3hv9jJF3adDNsBSIQDqcjp
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",89,30320929,1i8SpTcr7yvPOmcqrbnVXY
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'uk pop']",80,10173879,0X2BH1fck6amBIoJhDVmmJ
+Flipp Dinero,"['melodic rap', 'pop rap', 'rap', 'trap', 'vapor trap']",65,975909,2HUwZ0kumzCSlhFcjFZfpp
+Gucci Mane,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",80,4056578,13y7CgLHjMVRMDqxdx0Xdo
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",88,25007792,4VMYDCV2IEDYJArk749S6m
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",84,6388161,5LHRHt1k9lMyONurDHEdrp
+Dean Lewis,"['australian pop', 'pop', 'pop rock']",76,1800972,3QSQFmccmX81fWCUSPTS7y
+Ed Sheeran,"['pop', 'uk pop']",96,88309902,6eUKZXaKkcviH0Ku9w2n3V
+Camila Cabello,"['dance pop', 'pop', 'post-teen pop']",84,24309152,4nDoRrQiYLoBzwC5BhVJzF
+5 Seconds of Summer,"['boy band', 'dance pop', 'electropop', 'pop', 'post-teen pop']",80,8033329,5Rl15oVamLq7FbSb0NNBNy
+Mau y Ricky,"['latin', 'latin pop', 'pop venezolano', 'reggaeton', 'trap latino']",78,4114018,2wkoKEfS6dXwThbyTnZWFU
+6ix9ine,"['emo rap', 'rap']",75,6626605,7gZfnEnfiaHzxARJ2LeXrf
+A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",84,6083916,31W5EY0aAly4Qieq6OFu6I
+21 Savage,"['atl hip hop', 'rap', 'trap']",87,10404574,1URnnhqYAYcrqrcwql10ft
+Becky G,"['dance pop', 'latin', 'latin pop', 'latin viral pop', 'pop', 'rap latina', 'reggaeton', 'trap latino']",82,10715271,4obzFoKoKRHIphyHzJ35G3
+Nio Garcia,"['latin', 'reggaeton', 'trap latino']",81,2492420,5hdhHgpxyniooUiQVaPxQ0
+Clean Bandit,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",79,4563307,6MDME20pz9RveH9rEXvrOM
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",92,29948731,6M2wZ9GZgrQXHCFfjv46we
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",93,30940710,1vyhD5VmyZ7KMfW5gqLgo5
+Loud Luxury,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']",71,490705,6t1gpxYbY8OlLA7D2RiikQ
+Imagine Dragons,"['modern rock', 'pop', 'rock']",89,36784386,53XhwfbYqKCa1cC15pYq2q
+Zara Larsson,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'post-teen pop', 'scandipop', 'swedish electropop', 'swedish pop', 'tropical house']",78,9449551,1Xylc3o4UrD53lo9CvFvVg
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'tropical house']",78,5613125,2qxJFvFYMEDqd7ui6kSAcq
+Luis Fonsi,"['latin', 'latin pop', 'puerto rican pop']",78,9827689,4V8Sr092TqfHkfAA5fXXqG
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton colombiano']",84,17183211,07YUOmWljBTXwIseAUd9TW
+Felipe Araújo,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",67,4183809,47uyFQHOD02S0lj9ptRpoB
+Bazzi,"['dance pop', 'electropop', 'pop']",77,4661299,4GvEc3ANtPPjt1ZJllr5Zl
+Michael Jackson,"['pop', 'r&b', 'soul']",84,20718564,3fMbdgg4jU18AjLCKBhRSm
+Lukas Graham,"['danish pop', 'pop', 'scandipop']",75,1885228,25u4wHJWxCA9vO0CzxAbK7
+Anne-Marie,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",81,8721677,1zNqDE7qDGCsyzJwohVaoX
+Kanye West,"['chicago rap', 'rap']",94,15677800,5K4W6rqBFWDnAN6FQUkS6x
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",82,18559306,69GGBxA162lTqCwzJG5jLp
+George Ezra,"['folk-pop', 'modern rock', 'neo-singer-songwriter', 'pop', 'pop rock']",73,3533430,2ysnwxxNtSgbb9t1m2Ur4j
+Rita Ora,"['australian pop', 'dance pop', 'edm', 'electropop', 'pop', 'pop rap', 'post-teen pop', 'tropical house', 'uk pop']",77,7048177,5CCwRZC6euC8Odo6y9X8jr
+French Montana,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",80,4199419,6vXTefBL93Dj5IqAWq6OTv
+Reik,"['latin', 'latin arena pop', 'latin pop', 'mexican pop']",82,6558189,0vR2qb8m9WHeZ5ByCbimq2
+Jonas Blue,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']",78,3412129,1HBjj22wzbscIZ9sEb5dyf
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",83,7787344,23fqKkggKUBHNkbKtXEls4
+Lil Peep,"['emo rap', 'lgbtq+ hip hop']",85,8174683,2kCcBybjl3SAtIcwdWpUe3
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",88,18732140,2YZyLoL8N0Wb9xBt1NhZWg
+MC L da Vinte,"['funk bh', 'funk carioca', 'funk ostentacao']",65,519752,0lHB0Qc4pmD5RkTLlHeESo
+James Arthur,"['pop', 'talent show', 'uk pop']",83,8932585,4IWBUUAFIplrNtaOHcJPRM
+JENNIE,['k-pop'],64,1554644,250b0Wlc5Vk0CoUsaCY84M
+TOTO,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",74,2083178,0PFtn5NtBbbUNbU9EAmIWF
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",88,28364980,1r4hJ1h58CWwUQe3MxPuau
+BlocBoy JB,"['memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap', 'vapor trap']",64,1328193,4TEJudQY2pXxVHPE3gD2EU
+Silk City,['edm'],61,74875,2X97ZAqRKRMYFIDqtvGgGc
+Zé Neto & Cristiano,"['sertanejo', 'sertanejo universitario']",81,15155780,487N2T9nIPEHrlTZLL3SQs
+Portugal. The Man,"['indie rock', 'modern alternative rock', 'modern rock', 'rock']",68,1274637,4kI8Ie27vjvonwaB2ePh8T
+Tiësto,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop', 'pop dance', 'slap house', 'trance', 'tropical house']",85,6026997,2o5jDhtHVPhrJdv3cEQ99Z
+Lauv,"['dance pop', 'electropop', 'pop']",81,4661609,5JZ7CnR6gTvEMKX4g70Amv
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",87,19891776,790FomKkXshlbRYZFtlgla
+Marília Mendonça,['sertanejo'],90,21689434,1yR65psqiazQpeM79CcGh8
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",85,31342027,0C8ZW7ezQVs4URX5aX7Kqx
+Macklemore & Ryan Lewis,"['pop rap', 'seattle hip hop']",75,2562235,5BcAKTbp20cv7tC5VqPFoC
+Márcia Fellipe,"['forro', 'sertanejo pop']",61,1560407,3OxZ4asD88P1lJJmLcXz4K
+Wesley Safadão,"['forro', 'sertanejo pop']",76,10287111,1AL2GKpmRrKXkYIcASuRFa
+David Guetta,"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",89,23475905,1Cs0zKBU1kc0i8ypK3B9ai
+Bebe Rexha,"['dance pop', 'electropop', 'pop', 'post-teen pop']",81,6833331,64M6ah0SkkRsnPGtGiRAbb
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'queens hip hop']",88,23175065,0hCNtLu0JehylgoiP8L4Gh
+DJ Khaled,"['dirty south rap', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",79,6691003,0QHgL1lAIqAw0HtD7YldmP
+Little Mix,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'talent show', 'uk pop']",83,9774786,3e7awlrlDSwF3iM0WBjGMp
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",89,12375749,4O15NlyKLIASxsJ0PrXPfz
+Ski Mask The Slump God,"['miami hip hop', 'rap', 'underground hip hop']",79,4597737,2rhFzFmezpnW82MNqEKVry
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",85,15606970,1SupJlEpv7RS2tPNRaHViT
+Rudimental,"['dance pop', 'edm', 'house', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",72,1303170,4WN5naL3ofxrVBgFpguzKo
+Thalia,"['dance pop', 'latin', 'latin pop', 'mexican pop']",72,3628100,23wEWD21D4TPYiJugoXmYb
+Brytiago,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",76,4348744,00XhexlJEXQstHimpZN910
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",92,49615158,7dGJo4pcD2V6oG8kP0tJRR
+H.E.R.,"['alternative r&b', 'dance pop', 'pop', 'r&b']",79,4499702,3Y7RZ31TRPVadSFVy1o8os
+Future,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",89,10842024,1RyvyyTE3xzB2ZywiAwp0i
+A$AP Rocky,"['east coast hip hop', 'hip hop', 'rap', 'trap']",85,10193389,13ubrt8QOOCPljQ2FL1Kca
+Kevin Roldan,"['latin', 'latin hip hop', 'perreo', 'reggaeton', 'reggaeton colombiano', 'reggaeton flow', 'trap latino']",73,4273273,1RBzGO6Nm3uyhUSxP7EDWO
+Sam Smith,"['dance pop', 'pop', 'uk pop']",86,18092653,2wY79sveU1sp5g7SokKOiI
+"Earth, Wind & Fire","['disco', 'funk', 'jazz funk', 'motown', 'quiet storm', 'soul']",76,3205031,4QQgXkCYTt3BlENzhyNETg
+Sia,"['australian dance', 'australian pop', 'pop']",87,21515853,5WUlDfRSoLAfcVSX1WnrxN
+Metro Boomin,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",81,2730872,0iEtIxbK0KxaSlF7G42ZOp
+Lil Mosey,"['melodic rap', 'rap', 'rap conscient', 'trap', 'vapor trap']",76,4127065,5zctI4wO9XSKS8XwcnqEHk
+Bruno Mars,"['dance pop', 'pop']",92,35670674,0du5cEVh5yTK9QJze8zA0C
+Offset,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",81,2165153,4DdkRBBYG6Yk9Ka8tdJ9BW
+Gabriel Diniz,"['forro', 'sertanejo pop']",51,1467786,3WQ1s2QFvL6crxBvrVhwzj
+Outkast,"['atl hip hop', 'dirty south rap', 'hip hop', 'rap', 'southern hip hop']",76,1805125,1G9G7WwrXka3Z1r7aIDjI7
+The Killers,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",79,6276880,0C0XlULifJtAgn6ZNCW2eu
+Humberto & Ronaldo,"['forro', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",64,1316553,1zEo6Fk1iaaOYFlFPBHCFn
+Rich The Kid,"['atl hip hop', 'hip hop', 'melodic rap', 'plugg', 'pop rap', 'rap', 'southern hip hop', 'trap']",74,2716546,1pPmIToKXyGdsCF6LmqLmI
+Oasis,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",78,6789710,2DaxqgrOhkeH0fpeiQq2f4
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'viral pop']",87,35370888,7n2wHs1TKAczGzO7Dd2rGr
+Piso 21,"['colombian pop', 'latin', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino']",77,7565304,4bw2Am3p9ji3mYsXNXtQcd
+Bee Gees,"['disco', 'mellow gold', 'soft rock']",79,5083785,1LZEQNv7sE11VDY3SdxQeN
+MC Kevin o Chris,"['funk 150 bpm', 'funk carioca']",70,2818773,2UMj7NCbuqy1yUZmiSYGjJ
+Journey,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",74,3942178,0rvjqX7ttXeg3mTy8Xscbt
+Trippie Redd,"['melodic rap', 'rap', 'trap']",87,6881667,6Xgp2XMz1fhVYe7i6yNAax
+Henrique & Juliano,['sertanejo universitario'],84,13824184,3p7PcrEHaaKLJnPUGOtRlT
+Capital Bra,['german hip hop'],76,4165084,4WZGDpNwrC0vNQyl9QzF7d
+SHAED,"['electropop', 'pop']",65,145536,3KwmxIhSe9UTSEF37kwngR
+Hailee Steinfeld,"['dance pop', 'pop', 'post-teen pop']",74,7190160,5p7f24Rk5HkUZsaS3BLG5F
+Zac Efron,"['hollywood', 'post-teen pop', 'show tunes']",71,728559,6U1dBXJhC8gXFjamvFTmHg
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",80,15211843,60d24wfXkVzDSfLS6hyCjZ
+Keala Settle,"['broadway', 'hollywood', 'show tunes']",68,141162,7HV2RI2qNug4EcQqLbCAKS
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",95,38807249,1Xyo4u8uXC1ZmMpatF05PJ
+Jason Mraz,"['acoustic pop', 'neo mellow', 'pop', 'pop rock']",76,6356682,4phGZZrJZRo4ElhRtViYdl
+Peter Manos,[],53,66124,4K9aclpXgCPNFGEqRlFPal
+Bring Me The Horizon,"['melodic metalcore', 'metalcore', 'rock', 'uk metalcore']",79,4112206,1Ffb6ejR6Fe5IamqA5oRUF
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",89,14800734,7bXgB6jMjp9ATFy66eO08Z
+Fedez,"['italian adult pop', 'italian pop']",70,1699810,3pgCLfNbw5ozIfoNsvDU7i
+Lil Pump,"['emo rap', 'miami hip hop', 'rap', 'social media pop', 'trap', 'vapor trap']",70,7837556,3wyVrVrFCkukjdVIdirGVY
+Manuel Turizo,"['colombian pop', 'latin', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino']",82,8501010,0tmwSHipWxN12fsoLcFU3B
+Lewis Capaldi,"['pop', 'uk pop']",82,8881122,4GNC7GD6oZMSxPGyXy4MNB
+Gesaffelstein,"['dark clubbing', 'destroy techno']",71,414612,3hteYQFiMFbJY7wS0xDymP
+Shindy,['german hip hop'],69,812368,5j21TGkrNEAJe3gG9VlS34
+Lana Del Rey,"['art pop', 'pop']",86,14557160,00FQb4jTyendYWaN8pK0wa
+Kehlani,"['dance pop', 'pop', 'r&b']",79,5240575,0cGUm45nv7Z6M6qdXYQGTX
+Lauren Jauregui,"['pop', 'post-teen pop', 'r&b']",64,1135807,3J0BpFVUc9LeOIVeN5uNhU
+Coez,"['italian indie pop', 'italian pop', 'rap napoletano', 'rome indie']",69,1750087,5dXlc7MnpaTeUIsHLVe3n4
+Alec Benjamin,"['alt z', 'dream smp', 'electropop', 'pop']",79,3100461,5IH6FPUwQTxPSXurCrcIov
+NOTD,"['alt z', 'dance pop', 'edm', 'electro house', 'electropop', 'pop', 'pop dance', 'pop edm', 'tropical house']",70,208531,5jAMCwdNHWr7JThxtMuEyy
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",80,5553205,4xRYI6VqpkE3UwrDrAZL8L
+James Blake,"['alternative r&b', 'art pop', 'indie soul', 'uk alternative pop']",73,1227108,53KwLdlmrlCelAZMaLVZqU
+Luche,"['italian hip hop', 'rap napoletano']",67,537525,3yiEJ9SByXZMXTwaKdVFN4
+Mustard,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",76,912293,0YinUQ50QDB7ZxSCLyQ40k
+Hozier,"['irish singer-songwriter', 'pop']",81,4935894,2FXC3k01G6Gw61bmprjgqS
+Seeb,"['dance pop', 'edm', 'electro house', 'norwegian pop', 'pop', 'pop dance', 'pop edm', 'tropical house']",72,250629,5iNrZmtVMtYev5M9yoWpEq
+Bass Santana,"['dark trap', 'miami hip hop', 'underground hip hop', 'vapor trap']",61,136239,0O1cTzccAEKaEFShgzAK9V
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",88,15036004,6l3HvQ5sa6mXTsMTB19rO5
+Robin Schulz,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",80,2840266,3t5xRXzsuZmMDkQzgOX35S
+Julia Michaels,"['alt z', 'dance pop', 'electropop', 'pop', 'post-teen pop']",79,4139549,0ZED1XzwlLHW4ZaG4lOT6m
+Vampire Weekend,"['baroque pop', 'indie rock', 'modern rock']",69,1760999,5BvJzeQpmsdsFp4HGUYUEx
+Shirin David,"['frauenrap', 'german hip hop', 'german pop']",75,636621,0JBdTCGs111JKKYfLqOEBa
+Blueface,"['cali rap', 'trap']",73,4523855,3Fl1V19tmjt57oBdxXKAjJ
+Reynmen,"['turkish hip hop', 'turkish trap pop']",68,2390349,1Fg19vpUJpAAPFjnKaVYVW
+Dominic Fike,"['alternative pop rock', 'pop']",73,578876,6USv9qhCn6zfxlBQIYJ9qs
+Anitta,"['funk carioca', 'funk pop', 'pagode baiano', 'pop nacional']",81,10925889,7FNnA9vBm6EKceENgCGRMb
+Gunna,"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",87,3623815,2hlmm7s2ICUX0LVIhVFlZQ
+Galantis,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']",78,3161209,4sTQVOfp9vEMCemLw50sbu
+Mabel,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",75,1463524,1MIVXf74SZHmTIp4V4paH4
+Loredana,"['frauenrap', 'german hip hop', 'kosovan pop', 'romanian pop']",68,1075795,2Im8m4STDBosjfmb5hmP80
+The Rudeboyz,['trap brasileiro'],58,13875,7ciBW1p3KBsYIkFk4UmwS8
+Ultimo,"['italian adult pop', 'italian pop']",73,2533680,3hN3iJMbbBmqBSAMx5veDa
+Mahmood,['italian pop'],65,903433,06nvjg4wBANK6DCHjqtPNd
+Irama,"['italian adult pop', 'italian pop']",66,1605172,5iot8OPcosJN9nCl7I5SdK
+Childish Gambino,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap']",79,8501509,73sIBHcqh3Z3NyqHKZ7FOL
+Why Don't We,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'teen pop']",74,3003653,2jnIB6XdLvnJUeNTy5A0J2
+John Legend,"['neo soul', 'pop', 'pop soul', 'r&b', 'urban contemporary']",81,5998791,5y2Xq6xcjJb2jVM54GHK3t
+YNW Melly,"['melodic rap', 'trap']",78,6805631,1cNDP5yjU5vjeR8qMf4grg
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",96,31311072,4dpARuHxo51G3z768sgnrY
+Beyoncé,"['dance pop', 'pop', 'r&b']",85,29518968,6vWDO969PvNqNYHIOW5v0m
+The Police,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'new wave', 'permanent wave', 'rock', 'soft rock']",76,4554839,5NGO30tJxFlKixkPSgXcFE
+Christina Perri,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",74,3156803,7H55rcKCfwqkyDFH9wpKM6
+Alicia Keys,"['hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']",80,9167685,3DiDSECUqqY1AuBP8qtaIa
+Lord Huron,"['indie folk', 'stomp and holler']",74,956797,6ltzsmQQbmdoHHbLZ4ZN25
+YUNGBLUD,"['british indie rock', 'modern rock', 'pop', 'rock']",75,1912711,6Ad91Jof8Niiw0lGLLi3NW
+Avril Lavigne,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",79,8027159,0p4nmQO2msCgU4IF37Wi3j
+Dennis Lloyd,['israeli pop'],70,581370,3EOEK57CV77D4ovYVcmiyt
+KC Rebell,"['german drill', 'german hip hop']",70,1117834,5p7mWeX4RlvqBCxylfiXdE
+ChocQuibTown,"['colombian hip hop', 'colombian pop', 'colombian rock', 'latin', 'latin alternative', 'latin pop', 'reggaeton colombiano', 'salsa choke', 'tropical']",62,562966,6tkyhGe9hGI3Lcfo4gVh6Z
+Cauty,"['latin', 'perreo', 'reggaeton', 'reggaeton flow', 'trap latino']",65,672352,2QUvtLq6oQaX0LNsYY2fas
+Amenazzy,"['dominican pop', 'latin', 'latin hip hop', 'rap dominicano', 'reggaeton', 'reggaeton flow', 'trap latino']",69,1726985,6kq4GHwUcUojGIu0ziSNXf
+Dermot Kennedy,"['folk-pop', 'irish pop', 'pop']",77,1011472,5KNNVgR6LBIABRIomyCwKJ
+Tropkillaz,"['afrofuturismo brasileiro', 'bass trap', 'electronic trap', 'funk carioca', 'pop nacional']",62,197233,5bzWtCkjIAMgN93gLt56SO
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",81,5318290,0hEurMDQu99nJRq8pTxO14
+P!nk,"['dance pop', 'pop']",83,12148156,1KCSPY1glIKqW2TotWuXOR
+James Bay,"['modern rock', 'neo mellow', 'pop', 'pop rock']",76,3498326,4EzkuveR9pLvDVFNx6foYD
+Ninho,"['french hip hop', 'pop urbaine']",80,5150961,6Te49r3A6f5BiIgBRxH7FH
+Calboy,"['chicago rap', 'melodic rap', 'pop rap', 'rap', 'trap', 'vapor trap']",64,784722,0HkcYmcjrBR3SCw9Ld5VZk
+Summer Walker,"['pop', 'r&b']",85,2850682,57LYzLEk2LcFghVwuWbcuS
+Jonas Brothers,"['boy band', 'dance pop', 'pop', 'post-teen pop']",80,5753359,7gOdHgIoIKoe4i9Tta6qdD
+2 Chainz,"['atl hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",80,6731847,17lzZA2AlOHwCwFALHttmp
+Lil Skies,"['melodic rap', 'rap', 'trap']",75,4752719,7d3WFRME3vBY2cgoP38RDo
+Solange,"['afrofuturism', 'alternative r&b', 'dance pop', 'escape room', 'hip pop', 'indie soul', 'neo soul', 'pop', 'r&b', 'urban contemporary']",63,1605881,2auiVi8sUZo17dLy1HwrTU
+Martin Jensen,"['dance pop', 'danish electronic', 'deep house', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']",71,1173698,4ehtJnVumNf6xzSCDk8aLB
+Wisin & Yandel,"['electro latino', 'latin', 'latin hip hop', 'reggaeton', 'trap latino']",80,4842751,1wZtkThiXbVNtj6hee6dz9
+Dalex,"['latin', 'r&b en espanol', 'reggaeton', 'trap latino']",81,3815615,0KPX4Ucy9dk82uj4GpKesn
+Mc Livinho,"['funk carioca', 'funk ostentacao', 'funk paulista']",67,6396950,7me0S5Z40qVWj3gzyK8aC3
+Kenny Man,['panamanian pop'],53,255428,6SGvRyZuaSuWmP6IWUKpGf
+Aaron Smith,['chicago house'],66,243351,77qukKzmdI5BeMBR7WGUrN
+Tom Walker,"['indie anthem-folk', 'modern rock', 'pop', 'uk pop']",70,880418,7z2avKuuiMAT4XZJFv8Rvh
+TOMORROW X TOGETHER,"['k-pop', 'k-pop boy group']",79,4993302,0ghlgldX5Dd6720Q3qFyQB
+Lil Nas X,"['lgbtq+ hip hop', 'pop']",91,7736095,7jVv8c5Fj3E9VhNjxT4snq
+Louis Tomlinson,"['pop', 'post-teen pop']",71,5583074,57WHJIHrjOE3iAxpihhMnp
+The Black Keys,"['alternative rock', 'blues rock', 'garage rock', 'modern blues rock', 'modern rock', 'punk blues', 'rock', 'roots rock']",73,3579771,7mnBLXK823vNxN3UWB7Gfz
+Lunay,"['latin', 'latin hip hop', 'latin pop', 'reggaeton', 'reggaeton flow', 'trap latino']",78,5562801,47MpMsUfWtgyIIBEFOr4FE
+Don Patricio,"['rap canario', 'trap latino', 'urbano espanol']",64,529843,6vPXtLmNd3mW0dd1Rb9eQ9
+John Lundvik,[],44,22841,11LbPHLi2sCqOVjknt0jmW
+Sfera Ebbasta,"['italian hip hop', 'italian pop', 'trap italiana']",79,4557627,23TFHmajVfBtlRx5MXqgoz
+Maren Morris,"['contemporary country', 'country', 'texas country']",76,610869,6WY7D3jk8zTrHtmkqqo5GI
+ScHoolboy Q,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",77,3922462,5IcR3N7QB1j6KBL8eImZ8m
+FLETCHER,"['alt z', 'dance pop', 'electropop', 'indie poptimism', 'pop', 'post-teen pop']",71,537033,5qa31A9HySw3T7MKWI9bGg
+Myke Towers,['trap latino'],90,7196154,7iK8PXO48WeuP03g8YR51W
+Sofía Reyes,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'reggaeton']",72,2142840,0haZhu4fFKt0Ag94kZDiz2
+Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']",82,4014376,2jku7tDXc6XoB6MO2hFuqg
+Sean Paul,"['dance pop', 'dancehall', 'pop', 'pop rap']",82,3662484,3Isy6kedDrgPYoTS1dazA9
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",92,7864567,1mcTU81TzQhprhouKaTkpq
+Ufo361,"['german cloud rap', 'german hip hop']",74,1743056,5pVRwX5ZQR7hfJ18w8ZYkl
+NAV,"['canadian hip hop', 'canadian trap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'toronto rap', 'trap']",79,2755697,7rkW85dBwwrJtlHRDkJDAC
+Tame Impala,"['australian psych', 'neo-psychedelic']",80,5241190,5INjqkS1o8h1imAzPqGZBb
+Alan Walker,['electro house'],83,31341428,7vk5e3vY1uw9plTHJAMwjN
+Paloma Mami,"['latin pop', 'reggaeton chileno', 'trap chileno']",67,972364,7rOlQwf8OuFLFQp4aydjBt
+Fero47,['german hip hop'],57,412351,4A7HeXSd4HtQuf6IR5XZ1b
+PNL,"['french hip hop', 'pop urbaine']",75,4499978,3NH8t45zOTqzlZgBvZRjvB
+Gaullin,"['edm', 'lithuanian edm', 'lithuanian electronic', 'pop dance', 'tropical house']",66,103943,1aQwKFn00nswXRDUDipm0K
+ROSALÍA,['r&b en espanol'],81,4909053,7ltDVBr6mKbRvohxheJ9h1
+Rammstein,"['alternative metal', 'german metal', 'industrial', 'industrial metal', 'industrial rock', 'neue deutsche harte', 'nu metal']",78,6548114,6wWVKhxIU2cEi0K81v7HvP
+DJ Luian,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",76,1215176,64aJYyrXljOodnUG6jvhRD
+Nipsey Hussle,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",70,2454577,0EeQBlQJFiAfJeVN2vT9s0
+Daya,"['alt z', 'dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",73,1314247,6Dd3NScHWwnW6obMFbl1BH
+BLACKPINK,"['k-pop', 'k-pop girl group']",83,26418621,41MozSoPIsD1dJM0CLPjZF
+Samra,['german hip hop'],75,1080304,6h1s4i4XKIYv4ErDelLDN0
+Aventura,"['bachata', 'bachata dominicana', 'latin', 'latin hip hop', 'latin pop', 'trap latino', 'tropical']",82,5073302,1qto4hHid1P71emI6Fd8xi
+Twenty One Pilots,"['modern rock', 'rock']",84,21472362,3YQKmKGau1PzlVlkL1iodx
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",83,20936146,1vCWHaC5f2uS3yhpwWbIA6
+Danny Ocean,"['latin', 'latin pop', 'pop venezolano', 'reggaeton', 'trap latino']",78,3442789,5H1nN1SzW0qNeUEZvuXjAj
+BTS,"['k-pop', 'k-pop boy group']",95,41818649,3Nrfpe0tUJi4K4DXYWgMUX
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",88,9559800,77ziqFxp5gaInVrF2lj4ht
+Guaynaa,"['latin', 'reggaeton', 'reggaeton flow', 'trap latino']",74,680721,0BqURncJM5B1BBu7UM51eq
+MEDUZA,"['edm', 'pop', 'pop dance', 'pop house', 'tropical house']",78,470368,0xRXCcSX89eobfrshSVdyu
+Polo G,['chicago rap'],90,5834826,6AgTAQt8XS6jRWi4sX7w49
+SZA,"['pop', 'r&b', 'rap']",86,6550884,7tYKF4w9nC0nq9CsPZTHyP
+Lil Dicky,"['comedy rap', 'pop rap', 'rap']",66,1853517,1tqhsYv8yBBdwANFNzHtcr
+Madonna,"['dance pop', 'pop']",78,5587373,6tbjWDEIzxoDsBA1FuhfPW
+TWICE,"['k-pop', 'k-pop girl group']",85,11369798,7n2Ycct7Beij7Dj7meI4X0
+Florence + The Machine,"['baroque pop', 'pop', 'uk alternative pop']",76,5711118,1moxjboGR7GNWYIMWsRjgG
+Lizzo,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",76,4216838,56oDRnqbIiwx4mymNEv7dS
+DaBaby,"['north carolina hip hop', 'rap']",88,8486686,4r63FhuTkUYltbVAg5TQnk
+Taylor Swift,['pop'],100,45820277,06HL4z0CvFAxyc27GXpf02
+Stormzy,"['grime', 'uk hip hop']",76,2384758,2SrSdSvpminqmStGELCSNd
+LANY,"['la pop', 'pop']",79,4174076,49tQo2QULno7gxHutgccqF
+YG,"['cali rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",78,2712459,0A0FS04o6zMoto8OKPsDwY
+Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'dance pop', 'electropop', 'pop', 'post-teen pop']",79,9630110,2wUjUUtkb5lvLKcGKsKqsR
+Kina,"['sad lo-fi', 'sad rap']",73,686361,4qIVPF0s71ZYW3qzhu5GkF
+Bastille,"['metropopolis', 'modern rock', 'pop', 'pop rock', 'tropical house']",78,4875756,7EQ0qTo7fWT7DPxmxtSYEc
+PnB Rock,"['melodic rap', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'vapor trap']",74,3154714,21WS9wngs9AqFckK7yYJPM
+KYLE,"['pop', 'pop rap', 'rap']",71,994791,4qBgvVog0wzW75IQ48mU7v
+Luke Combs,"['contemporary country', 'country']",82,5819143,718COspgdWOnwOFpJHRZHS
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",80,17958891,5ZsFI1h6hIdQRw2ti0hz81
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap', 'tropical house']",78,6248139,738wLrAtLtCtFOLvQBXOXp
+Jax Jones,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'tropical house', 'uk dance']",78,967045,4Q6nIcaBED8qUel8bBx6Cr
+Andy Grammer,"['dance pop', 'modern rock', 'neo mellow', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",73,1004514,2oX42qP5ineK3hrhBECLmj
+"Tyler, The Creator","['hip hop', 'rap']",86,7361570,4V8LLVI7PbaPR0K2TGSxFF
+OneRepublic,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop rock']",84,12719273,5Pwc4xIPtQLFEnJriah9YJ
+Slipknot,"['alternative metal', 'double drumming', 'nu metal', 'rap metal']",80,7777456,05fG473iIaoy82BF1aGhL8
+Chance the Rapper,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap']",79,5467262,1anyVhU62p31KFi8MEzkbf
+Kontra K,"['christlicher rap', 'german hip hop']",71,1871078,4lDiJcOJ2GLCK6p9q5BgfK
+Duncan Laurence,['dutch pop'],73,355012,3klZnJvYGIbWritVwQD434
+Charli XCX,"['art pop', 'candy pop', 'dance pop', 'electropop', 'hyperpop', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",80,2479110,25uiPmTg16RbhZWAqwLBy5
+Luca Hänni,['german pop'],48,95210,5JbALDn35ZrLwVAle4xVqZ
+KEiiNO,"['eurovision', 'norwegian pop']",53,42690,0chh7dlaUzEreDTulHiOlm
+Jhay Cortez,"['latin', 'reggaeton', 'trap latino']",88,2970205,0EFisYRi20PTADoJrifHrz
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'rap', 'trap']",89,6728825,50co4Is1HCEo8bhOyUWKpn
+Joyner Lucas,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",78,1799805,6C1ohJrd5VydigQtaGy5Wa
+Ty Dolla $ign,"['hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",86,3997328,7c0XG5cIJTrrAgEC3ULPiq
+Jess Glynne,"['australian pop', 'dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",75,2629704,4ScCswdRlyA23odg9thgIO
+NLE Choppa,['memphis hip hop'],79,3742937,0ErzCpIMyLcjPiwT4elrtZ
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",86,19865669,6jJ0s89eD6GaHleKKya26X
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",84,16642761,5YGY8feqx7naU7z4HrwZM6
+NF,"['hip hop', 'pop rap', 'rap']",83,6280468,6fOMl44jA4Sp5b9PpYCkzz
+Herve Pagez,['musique guadeloupe'],38,4818,31JFnMfmvwzZGdEnXaKGek
+Tove Lo,"['dance pop', 'electropop', 'metropopolis', 'pop', 'post-teen pop', 'swedish electropop', 'swedish pop', 'swedish synthpop']",77,2892174,4NHQUGzhtTLFvgF5SZesLK
+Elton John,"['glam rock', 'mellow gold', 'piano rock']",88,8189880,3PhoLpVuITZKcymswpck5b
+Lil Tecca,"['melodic rap', 'rap', 'trap']",83,4499170,4Ga1P7PMIsmqEZqhYZQgDo
+Russ,"['hawaiian hip hop', 'rap']",80,4167930,1z7b1Pr1rSlvWRzsW3HOrS
+Gemitaiz,['italian hip hop'],72,1799692,4upwdFMlZBmQ68jP9jPzjK
+Nekfeu,"['french hip hop', 'pop urbaine', 'rap conscient']",74,1939170,4LXBc13z5EWsc5N32bLxfH
+R3HAB,"['dance pop', 'dutch house', 'edm', 'electro house', 'pop', 'pop dance', 'progressive electro house', 'slap house', 'tropical house']",79,2277908,6cEuCEZu7PAE9ZSzLLc2oQ
+Machine Gun Kelly,"['ohio hip hop', 'pop rap']",84,4149161,6TIYQ3jFPwQSRmorSezPxX
+Farid Bang,"['deep german hip hop', 'german hip hop']",69,774088,2JwyRtuXf2l6sTnSnGVIa1
+Naomi Scott,['vapor pop'],63,305840,2Zi3RrdQqk63Xj0914STkS
+Dreamville,"['hip hop', 'rap', 'trap', 'underground hip hop']",68,378440,1iNqsUDUraNWrj00bqssQG
+Joji,"['alternative r&b', 'viral pop']",83,5128470,3MZsBdqDrRTJihTHQrO6Dq
+Kalazh44,"['deep german hip hop', 'german drill', 'german hip hop', 'german underground rap']",59,120467,5sRQkVexJlax2iISuqL8cV
+Alesso,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'progressive electro house', 'tropical house']",77,3717107,4AVFqumd2ogHFlRbKIjp1t
+Summer Cem,['german hip hop'],71,1027834,3drqpTL4sQOckmAfF9i1wg
+Ali Gatie,"['canadian hip hop', 'pop']",75,1807615,4rTv3Ejc7hKMtmoBOK1B4T
+Flume,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm']",73,2213393,6nxWCVXbOlEVRexSbLsTer
+Blanco Brown,"['black americana', 'country rap']",63,126609,3yzRiNMZdTsSUgplcyYZ4i
+Ashley O,[],46,58502,14scxEoUN7Dcx1m4EQ7oHe
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",86,6610531,4LLpKhyESsyAXpc4laK94U
+Y2K,['pop rap'],67,274331,6USMTwO0MNDnKte5a5h0xx
+Mambo Kingz,['reggaeton flow'],76,165525,2T1aUibqR2QC2sINIDQOAK
+Sam Feldt,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']",76,660340,20gsENnposVs2I4rQ5kvrf
+Daniel Caesar,"['canadian contemporary r&b', 'pop', 'r&b']",81,2962313,20wkVLutqVOYrc0kxFs7rA
+João Gustavo e Murilo,"['forro', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",60,381201,6xerOqBLmelL3xZNZkVbGl
+Lynyrd Skynyrd,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'southern rock']",73,3726362,4MVyzYMgTwdP7Z49wAZHx0
+Dimitri Vegas & Like Mike,"['belgian dance', 'belgian edm', 'big room', 'dance pop', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'tropical house']",74,3135150,73jBynjsVtofjRpdpRAJGk
+Jeremy Zucker,"['electropop', 'pop']",79,1835420,3gIRvgZssIb9aiirIg0nI3
+Stephanie Poetri,['indonesian pop'],59,484950,0HS00NN7MAfF59aJnfcxSO
+Dayvi,"['circuit', 'guaracha', 'perreo']",61,45745,2TWBei99x2tV70bdYbWdAf
+Tones And I,"['australian pop', 'pop']",76,2883791,2NjfBq1NflQcKSeiDooVjY
+Blue Ivy,['kids hip hop'],51,13132,3XV0lFzNs8BCTwhJTcMiBr
+Quality Control,"['hip hop', 'melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",68,910105,6i392l38cR3uBPF0DbNs7S
+Norm Ender,"['turkish hip hop', 'turkish trap']",59,1597783,3S6gaE89XewFAvZqsMuJDJ
+Rick Ross,"['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",81,5307054,1sBkRIssrMs1AbVkOJbc7a
+Residente,['venezuelan hip hop'],67,913565,5GcWBUX00IPuWVGMIRK1sS
+Big Sean,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",82,8999449,0c173mlxpT3dSFRgMO8XPh
+Cordae,"['dmv rap', 'hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop', 'vapor trap']",71,1575271,0huGjMyP507tBCARyzSkrv
+Majid Jordan,"['alternative r&b', 'canadian contemporary r&b', 'pop', 'r&b', 'trap soul']",70,649406,4HzKw8XcD0piJmDrrPRCYk
+Pabllo Vittar,"['dance pop', 'funk carioca', 'funk pop', 'pop lgbtq+ brasileira', 'pop nacional']",71,3493366,6tzRZ39aZlNqlUzQlkuhDV
+Jorge & Mateus,"['sertanejo', 'sertanejo universitario']",81,15673830,1elUiq4X7pxej6FRlrEzjM
+Gryffin,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']",74,759113,2ZRQcIgzPCVaT9XKhXZIzh
+TOOL,"['alternative metal', 'alternative rock', 'art rock', 'nu metal', 'progressive metal', 'progressive rock', 'rock']",72,2354463,2yEwvVSSSUkcLeSTNyHKh8
+Labrinth,"['indie poptimism', 'pop']",79,1751660,2feDdbD5araYcm6JhFHHw7
+Megan Thee Stallion,"['houston rap', 'pop', 'trap queen']",86,5487789,181bsRPaVXVlUKXrxwZfHK
+Camilo,"['colombian pop', 'reggaeton colombiano']",85,12416237,28gNT5KBp7IjEOQoevXf9N
+SiR,"['alternative r&b', 'hip hop', 'indie soul', 'la pop', 'r&b', 'rap']",66,607446,3QTDHixorJelOLxoxcjqGx
+Bon Iver,"['eau claire indie', 'indie folk', 'melancholia']",78,3100962,4LEiUm1SRbFMgfqnQTwUbQ
+Saweetie,"['cali rap', 'dance pop', 'pop', 'pop rap', 'r&b', 'trap queen']",81,1396651,6cK3NBO6uP7hh0oyuVELFl
+Duki,"['argentine hip hop', 'trap argentino', 'trap latino', 'trap triste']",85,4875831,1bAftSH8umNcGZ0uyV7LMg
+WOS,"['argentine indie', 'trap argentino']",73,2266433,5YCc6xS5Gpj3EkaYGdjyNK
+Swae Lee,"['melodic rap', 'trap']",81,1334439,1zNqQNIdeOUZHb8zbZRFMX
+Normani,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",73,1554518,2cWZOOzeOm4WmBJRnD5R7I
+Jorja Smith,"['pop', 'r&b', 'uk contemporary r&b']",75,2441659,1CoZyIx7UvdxT5c8UkMzHd
+Bizarrap,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino']",84,3932337,716NhGYqD1jl2wI1Qkgq36
+ILLENIUM,"['edm', 'melodic dubstep', 'pop', 'pop dance', 'tropical house']",76,1181332,45eNHdiiabvmbp4erw26rg
+Diplo,"['dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",82,2427309,5fMUXHkw8R8eOP2RNVYEZX
+A$AP Ferg,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",76,3153830,5dHt1vcEm9qb8fCyLcB3HL
+Tainy,"['latin', 'latin hip hop', 'latin pop', 'pop reggaeton', 'reggaeton', 'trap latino']",84,659867,0GM7qgcRCORpGnfcN2tCiB
+BROCKHAMPTON,"['boy band', 'hip hop', 'rap']",73,1885014,1Bl6wpkWCQ4KVgnASpvzzA
+Charlie Puth,"['dance pop', 'pop', 'viral pop']",81,14511601,6VuMaDnrHyPL1p4EHjYLi7
+The 1975,"['modern alternative rock', 'modern rock', 'pop', 'rock']",77,5218431,3mIj9lX2MWuHmhNCA7LSCW
+Apache 207,['german hip hop'],74,1774861,1qQLhymHXFPtP5U8KNKsm6
+Miami Yacine,"['albanian hip hop', 'deep german hip hop', 'german hip hop']",58,725213,1XKjtpH5P81gpOXDB91IEB
+blackbear,"['pop', 'pop rap']",84,4467497,2cFrymmkijnjDg9SS92EPM
+Luan Santana,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",75,5684691,3qvcCP2J0fWi0m0uQDUf6r
+Lil Tjay,"['brooklyn drill', 'melodic rap', 'nyc rap']",85,4136089,6jGMq4yGs7aQzuGsMgVgZR
+RAF Camora,['german hip hop'],79,1383658,0Dvx6p8JDyzeOPGmaCIH1L
+Dímelo Flow,"['latin', 'reggaeton', 'reggaeton flow', 'trap latino']",74,248349,3fZk3Gm5dN5v5yfYMQ04Bx
+Şanışer,['turkish hip hop'],62,969139,5LUxu287CsPM7jy3yS3l86
+Regard,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'slap house', 'tropical house']",75,162029,4ofCBoyEiGSePFAG500xev
+Niska,"['francoton', 'french hip hop', 'pop urbaine', 'rap francais']",78,3894519,7CUFPNi1TU8RowpnFRSsZV
+Melanie Martinez,"['alt z', 'electropop', 'pop']",81,11878446,63yrD80RY3RNEM2YDpUpO8
+Justin Quiles,"['latin', 'reggaeton', 'trap latino']",86,3099297,14zUHaJZo1mnYtn6IBRaRP
+MC JottaPê,"['funk carioca', 'funk paulista']",60,595094,5GqnSMX8p2hxqsM6LqDty3
+Bushido,"['deep german hip hop', 'german hip hop']",68,1103981,3c96G4d2lUOxhomM2mby5S
+C. Tangana,['urbano espanol'],79,1628764,5TYxZTjIPqKM8K8NuP9woO
+blink-182,"['pop punk', 'punk', 'rock', 'socal pop punk']",78,6742858,6FBDaR13swtiWwGhX1WQsP
+Rich Music LTD,"['latin', 'reggaeton', 'trap latino']",68,212647,2kqUKsTuEj1lPbm6BSn1AU
+Felipe Original,"['brega funk', 'funk carioca']",56,64495,2Cra8I2P4OnMkVguqZRVwi
+Noriel,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",76,5175031,3RtNN1VnooWEn3KQk03DUL
+The Cratez,[],56,20845,3pVfscwg2QxhdHtk966inb
+j-hope,"['k-pop', 'k-rap']",65,7954694,0b1sIQumIAsNbqAoIClSpy
+SSIO,"['afghan rap', 'deep german hip hop', 'german hip hop', 'hamburg hip hop']",66,472908,3IrUyDPQlQFcB5lMWhPml2
+MC Du Black,['funk carioca'],56,336244,6v4PBIzRAGaLp43LVureQc
+24kGoldn,"['cali rap', 'pop rap']",80,1450066,6fWVd57NKTalqvmjRd2t8Z
+Dan + Shay,"['contemporary country', 'country', 'pop']",77,2455664,7z5WFjZAIYejWy0NI5lv4T
+Niall Horan,"['dance pop', 'pop', 'post-teen pop']",80,7948183,1Hsdzj7Dlq2I7tHP7501T4
+SuperM,['k-pop'],61,1784990,5BHFSMEjfLVx1JwRWjAOsE
+Harry Styles,['pop'],86,17709212,6KImCVD70vtIoJWnq6nGn3
+YoungBoy Never Broke Again,"['baton rouge rap', 'trap']",85,7807884,7wlFDEWiM5OoIAt8RSli8b
+TINI,"['latin pop', 'pop argentino']",81,3414591,7vXDAI8JwjW531ouMGbfcp
+Black Eyed Peas,"['dance pop', 'pop', 'pop rap']",82,6233239,1yxSLGMDHlW21z4YXirZDS
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']",81,4958842,02kJSzxNuaWGqwubyUba0Z
+Dadá Boladão,"['brega funk', 'funk carioca']",49,214222,36SRwzRkX5zW3ABjJrevqX
+Frank Ocean,"['alternative r&b', 'hip hop', 'lgbtq+ hip hop', 'neo soul', 'pop']",83,8503407,2h93pZq0e7k5yf4dywlkpM
+Internet Money,"['rap', 'trap']",78,510785,6MPCFvOQv5cIGfw3jODMF0
+Noah Cyrus,"['alt z', 'dance pop', 'pop', 'post-teen pop']",75,921156,55fhWPvDiMpLnE4ZzNXZyW
+Coldplay,"['permanent wave', 'pop']",91,32787239,4gzpq5DPGxSnKTe4SA8HAU
+Rex Orange County,"['bedroom pop', 'pop']",79,3452040,7pbDxGE6nQSZVfiFdq9lOL
+Kesha,"['dance pop', 'electropop', 'pop', 'post-teen pop']",79,6778856,6LqNN22kT3074XbTVUrhzX
+Omar Montes,"['flamenco urbano', 'trap latino', 'urbano espanol']",71,342121,3lY9Fxceu60W1rbon7PkuF
+Arizona Zervas,"['pop rap', 'rhode island rap']",72,642264,0vRvGUQVUjytro0xpb26bs
+Ray Parker Jr.,['disco'],61,53904,0NyzfcGDZZ6GM25EBG9BYK
+"Bobby ""Boris"" Pickett","['halloween', 'novelty']",58,15613,42MRYPhQfcEXqb18dl5ERX
+AC/DC,"['australian rock', 'hard rock', 'rock']",83,21370723,711MCceyCBcFnzjGY4Q7Un
+Marracash,"['italian hip hop', 'italian underground hip hop', 'rap napoletano']",80,1475145,5AZuEF0feCXMkUCwQiQlW7
+The Citizens of Halloween,['halloween'],59,11996,164hs3x1Tsp3FgJWNHee1r
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'pop rap', 'urban contemporary']",89,45863851,5pKCCKE2ajJHZ9KAiaK11H
+Rockwell,[],68,30507,3xs0LEzcPXtgNfMNcHzLIP
+Stevie Wonder,"['funk', 'indie r&b', 'motown', 'quiet storm', 'soul']",78,5355743,7guDJrEfX3qb6FEbdPA5qi
+The Cranberries,"['irish rock', 'pop rock', 'rock']",74,2656188,7t0rwkOPGlDPEhaOcVtOt9
+Nimo,"['german hip hop', 'swedish hip hop']",75,1133819,3ZuBEj9ppJe8GSdKaMTfMN
+Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",83,7206685,4iHNK0tOyZPYnBU7nGAgpQ
+Lexa,"['funk carioca', 'funk pop', 'pop nacional']",62,2180577,0jTDeBJQr3unrK29LklnAv
+Ant Saunders,"['chill r&b', 'pop']",58,83953,4jpsw9CQS439N0B7SecMgf
+tha Supreme,"['italian hip hop', 'italian pop', 'trap italiana']",72,1497901,19i93sA0D7yS9dYoVNBqAA
+Doja Cat,"['dance pop', 'pop']",93,12392219,5cj0lLjcoR7YOSnhnX0Po5
+Riton,"['dance pop', 'edm', 'house', 'pop dance', 'tropical house', 'uk dance']",74,90994,7i9j813KFoSBMldGqlh2Z1
+Wham!,"['disco', 'europop', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",74,1737898,5lpH0xAS4fVfLkACg9DAuM
+JP Saxe,"['alt z', 'canadian contemporary r&b', 'pop', 'pop rock']",73,306316,66W9LaWS0DPdL7Sz8iYGYe
+True Damage,['k-rap'],54,98898,7xX15v6ahAkcT14kHfB9wB
+KSI,['uk hip hop'],74,2174254,1nzgtKYFckznkcVMR3Gg4z
+Bryant Myers,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",79,5796432,6w9ToX5slZ4uIdmD17hJ3c
+Jhené Aiko,"['alternative r&b', 'dance pop', 'pop', 'r&b', 'urban contemporary']",80,4989758,5ZS223C6JyBfXasXxrRqOk
+Trevor Daniel,"['alternative r&b', 'melodic rap', 'pop', 'pop rap']",73,660354,7uaIm6Pw7xplS8Dy06V6pT
+Michael Bublé,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']",83,4844887,1GxkXlMwML1oSg5eLPiAz3
+Bobby Helms,[],70,21856,38EmEgXkgK51MT2tPY0EoC
+Brenda Lee,"['adult standards', 'brill building pop', 'easy listening', 'vocal jazz']",71,237798,4cPHsZM98sKzmV26wlwD2W
+Justin Bieber,"['canadian pop', 'pop']",96,53282396,1uNFoZAHBGtllmzznpCI3s
+PARTYNEXTDOOR,"['pop', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap', 'urban contemporary']",78,3387065,2HPaUgqeutzr3jx5a9WyDV
+Maggie Rogers,"['indie pop', 'pop']",67,789252,4NZvixzsSefsNiIqXn0NDe
+Andy Williams,"['adult standards', 'brill building pop', 'easy listening']",73,391419,4sj6D0zlMOl25nprDJBiU9
+Idina Menzel,"['hollywood', 'show tunes']",73,367833,73Np75Wv2tju61Eo9Zw4IR
+Frank Sinatra,"['adult standards', 'easy listening', 'lounge']",82,5186700,1Mxqyy3pSjf8kZZL4QVxS0
+Band Aid,['musical advocacy'],64,20523,35S20clEkkSNUo23ViaslZ
+Kelly Clarkson,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'talent show']",79,8197983,3BmGtnKgCSGYIUhmivXKWX
+EXO,"['k-pop', 'k-pop boy group']",74,8566044,3cjEqqelV9zb4BYE3qDQ4O
+José Feliciano,"['latin pop', 'puerto rican pop']",69,256822,7K78lVZ8XzkjfRSI7570FF
+John Lennon,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'folk rock', 'mellow gold', 'rock']",73,4520265,4x1nvY2FN8jxqAFA0DA02H
+Gradur,"['francoton', 'french hip hop', 'pop urbaine', 'rap francais']",63,1456685,2tcoLkA9Hexz70Kuc1NTUl
+Roddy Ricch,"['melodic rap', 'rap', 'trap']",83,7102833,757aE44tKEUQEqRuT6GnEB
+Paul McCartney,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'mellow gold', 'rock', 'soft rock']",74,3748636,4STHEaNw4mPZ2tzheohgXB
+Bing Crosby,"['adult standards', 'easy listening']",75,373301,6ZjFtWeHP9XN7FeKSUe80S
+Nat King Cole,"['adult standards', 'vocal jazz']",75,1703918,7v4imS0moSyGdXyLgVTIV7
+Chris Rea,"['blues rock', 'classic rock', 'mellow gold', 'soft rock', 'sophisti-pop']",67,695657,5KEG7G8LDYlHgFDqZyEEs2
+Burl Ives,"['adult standards', 'american folk revival']",67,61647,0MHgLfmQdutffmvWe5XBTN
+Dean Martin,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",75,1194841,49e4v89VmlDcFCMyDv9wQ9
+Perry Como,"['adult standards', 'brill building pop', 'easy listening', 'vocal jazz']",69,360687,5v8jlSmAQfrkTjAlpUfWtu
+The Ronettes,"['adult standards', 'brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",68,187741,7CyeXFnOrfC1N6z4naIpgo
+Shakin' Stevens,"['new wave pop', 'rock-and-roll', 'rockabilly', 'soft rock']",64,104219,0wi4yTYlGtEnbGo4ltZTib
+Daryl Hall & John Oates,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",74,1641171,77tT1kLj6mCWtFNqiOmP9H
+The Pogues,"['celtic punk', 'celtic rock', 'folk punk', 'punk']",63,395724,2wzMOQwNT6ZvVB4amvhFAH
+Elvis Presley,"['rock-and-roll', 'rockabilly']",80,6025921,43ZHCT0cAZBISjO8DG9PnE
+Britney Spears,"['dance pop', 'pop', 'post-teen pop']",82,10018067,26dSoYclwsYLMAKD3tpOr4
+Meghan Trainor,"['dance pop', 'hip pop', 'pop', 'post-teen pop']",79,10927654,6JL8zeS1NmiOftqZTRgdTz
+Pentatonix,['a cappella'],77,3139387,26AHtbjWKiwYzsoGoUZq53
+Chuck Berry,"['blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly']",69,1494837,293zczrfYafIItmnmM3coR
+Bruce Springsteen,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",78,4462319,3eqjTLE0HfPfh78zjh6TqT
+Tony Bennett,"['adult standards', 'easy listening', 'vocal jazz']",70,691757,2lolQgalUvZDfp5vvVtTYV
+Don Toliver,"['pop', 'rap', 'trap']",84,1844155,4Gso3d4CscCijv0lmajZWs
+Kylie Minogue,"['australian dance', 'australian pop', 'dance pop', 'electropop', 'eurodance', 'europop', 'new wave pop', 'pop']",74,1396371,4RVnAU35WRWra6OZ3CbbMA
+The Jackson 5,"['motown', 'soul']",72,1189412,2iE18Oxc8YSumAU232n4rW
+Eartha Kitt,"['adult standards', 'lounge', 'torch song', 'vocal jazz']",61,132371,1AwO9pWEBSBoWdEZu28XDC
+Leona Lewis,"['british soul', 'dance pop', 'europop', 'neo mellow', 'pop', 'post-teen pop', 'talent show', 'urban contemporary']",71,3027613,5lKZWd6HiSCLfnDGrq9RAm
+Darlene Love,"['adult standards', 'brill building pop']",63,40747,391oLRVmoTkumiN79HkTWu
+SAINt JHN,"['melodic rap', 'pop rap', 'rap', 'slap house', 'trap']",75,781316,0H39MdGGX6dbnnQPt6NQkZ
+PEDRO SAMPAIO,['funk carioca'],74,1145283,5wbf52LA6kcaboHSN6NEF1
+Gwen Stefani,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'urban contemporary']",76,5012825,4yiQZ8tQPux8cPriYMWUFP
+*NSYNC,"['boy band', 'dance pop', 'post-teen pop']",70,1640010,6Ff53KvcvAj5U7Z1vojB5o
+Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",69,1326815,0qSX3s5pJnAlSsgsCne8Cz
+Mykola Dmytrovych Leontovych,"['post-romantic era', 'ukrainian classical']",60,2563,6lBN3Tzt61u8i9AJoAhKzF
+Red Velvet,"['k-pop', 'k-pop girl group']",74,6178212,1z4g3DjTBBZKhvAroFlhOM
+Liam Payne,"['dance pop', 'pop', 'post-teen pop']",72,8644574,5pUo3fmmHT8bhCyHE52hA6
+Ella Fitzgerald,"['adult standards', 'jazz blues', 'swing', 'vocal jazz']",73,2071878,5V0MlUE1Bft0mbLlND7FJz
+Donny Hathaway,"['chicago soul', 'classic soul', 'funk', 'motown', 'neo soul', 'quiet storm', 'soul', 'southern soul']",64,445830,0HU0U9kdXEHZVxUNbuQe8S
+Boney M.,['europop'],75,1185318,54R6Y0I7jGUCveDTtI21nb
+Céline Dion,"['canadian pop', 'dance pop']",77,5449551,4S9EykWXhStSc15wEx8QFK
+Bryan Adams,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'soft rock']",77,2357195,3Z02hBLubJxuFJfhacLSDc
+Melanie Thornton,[],53,7587,2apYMRrg5FxN4go0pfsCvf
+Slade,"['album rock', 'art rock', 'blues rock', 'glam rock', 'hard rock', 'pub rock']",58,279839,10n5lhNDoSMUHWLlnST1yw
+The Beach Boys,"['baroque pop', 'brill building pop', 'classic rock', 'psychedelic rock', 'rock', 'sunshine pop']",74,3389913,3oDbviiivRWhXwIE8hxkVV
+Christina Aguilera,"['dance pop', 'pop', 'post-teen pop']",80,6540658,1l7ZsJRRS8wlW3WfJfPfNS
+Gene Autry,"['adult standards', 'cowboy western', 'oklahoma country', 'traditional country', 'yodeling']",63,44805,5ixB75BQR3ADoWQkcHQJTs
+Backstreet Boys,"['boy band', 'dance pop']",77,4179583,5rSXSAkZ67PYJSvpUpkOr7
+Judy Garland,"['adult standards', 'hollywood', 'lounge', 'torch song', 'vocal jazz']",59,190412,0hItVPjwJLVZrFqOyIsxPf
+Destiny's Child,"['dance pop', 'girl group', 'hip pop', 'pop', 'r&b', 'urban contemporary']",74,5224776,1Y8cdNmUJH7yBTd9yOvr5i
+Eagles,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",77,7348374,0ECwFtbIWEVNwjlrfc6xoL
+Kacey Musgraves,"['contemporary country', 'country dawn', 'pop', 'texas country']",76,1053728,70kkdajctXSbqSMJbQO424
+Mel & Kim,[],49,326,5XnIjshjqYVE2eDVgSt9Ro
+Nina Nesbitt,"['alt z', 'dance pop', 'electropop', 'indie poptimism', 'neo-singer-songwriter', 'pop', 'pop rock', 'post-teen pop', 'uk pop', 'viral pop']",65,299892,7AzjETXRUKNRSJHMW9GIqd
+Hannah Kerr,"['anthem worship', 'ccm', 'christian pop']",54,32945,5FxshnB3eJ2YDn8xN8zDKq
+Vince Guaraldi Trio,"['adult standards', 'jazz trio']",69,101372,4ytkhMSAnrDP8XzRNlw9FS
+Carpenters,"['adult standards', 'mellow gold', 'soft rock']",71,2101947,1eEfMU2AhEo7XnKgL7c304
+Thurl Ravenscroft,['movie tunes'],59,3589,5Gejwv3xz2DpLcxVpMD6hL
+Pretenders,"['album rock', 'art rock', 'classic rock', 'folk rock', 'heartland rock', 'lilith', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'pop rock', 'rock', 'soft rock']",66,1095678,0GByy3DcfbQwDvXGCWmzv9
+Wizzard,"['classic uk pop', 'glam rock']",55,31959,7823Dim2TzjiQQ9wRQxyi9
+Nat King Cole Trio,"['adult standards', 'lounge', 'swing', 'vocal jazz']",55,122952,3OpnoUqoRIHWbsFs4Nw0NQ
+Jona Lewie,['new wave pop'],50,7219,3nohf4qILMr5aUSOsolwxB
+JACKBOYS,"['rap', 'trap']",71,461238,7A8S43ryYdbWpJKeHRZRcq
+Conan Gray,"['bedroom pop', 'electropop', 'indie pop', 'pop']",81,4381557,4Uc8Dsxct0oMqx0P6i60ea
+Gzuz,"['deep german hip hop', 'german hip hop', 'hamburg hip hop']",74,1168025,5eioJDe26lOqkAMbuhzZYs
+Foster The People,"['indietronica', 'modern rock', 'rock']",76,3303065,7gP3bB2nilZXLfPHJhMdvc
