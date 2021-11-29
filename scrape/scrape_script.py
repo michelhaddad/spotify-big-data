@@ -5,7 +5,7 @@ from utils.SpotifyAPICommunicator import SpotifyAPICommunicator
 
 client_id = 'client_id'
 client_secret = 'client secret'
-spotify_scraper = SpotifyScraper(client_id, client_secret)
+spotify_scraper = SpotifyScraper()
 spotify_api_communicator = SpotifyAPICommunicator(client_id, client_secret)
 
 start_date = date(2019, 1, 1)

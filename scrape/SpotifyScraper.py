@@ -8,10 +8,6 @@ from pandas.errors import ParserError
 class SpotifyScraper:
     SPOTIFY_TOP_200_GLOBAL_URL = 'https://spotifycharts.com/regional/global/daily/%s/download'
 
-    def __init__(self, client_id, client_secret):
-        self._client_id = client_id
-        self._client_secret = client_secret
-
     def __fetch_top_200_chart(self, date: date, request_headers: dict, request_cookies: dict):
         url = self.SPOTIFY_TOP_200_GLOBAL_URL % date.strftime('%Y-%m-%d')
         response = requests.get(url, headers=request_headers, cookies=request_cookies)
