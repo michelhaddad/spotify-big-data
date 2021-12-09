@@ -8,6 +8,9 @@ class SpotifyAPICommunicator:
         client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
         self.sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
+    def get_sp(self):
+        return self.sp
+
     def fetch_audio_features(self, track_ids: []):
         fields = ['energy', 'liveness', 'tempo', 'speechiness', 'acousticness', 'instrumentalness', 'danceability',
                   'key', 'duration_ms', 'loudness', 'mode', 'valence']
@@ -25,7 +28,7 @@ class SpotifyAPICommunicator:
         features['key'] = features['key'].astype(int)
         return features
 
-    def fetch_artists_info(self, artist_names: []):
+    def fetch_artists_info(self, artist_names):
         artist_info = pd.DataFrame()
 
         for name in artist_names:
